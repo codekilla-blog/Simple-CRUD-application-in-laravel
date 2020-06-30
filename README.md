@@ -13,5 +13,5 @@ To run this follow the below steps
 - now start the server
 ```php artisan serve```
 
-##want to learn how its done [click here](https://codekilla.com/simple-crud-application-in-laravel/)
+## want to learn how its done [click here](https://codekilla.com/simple-crud-application-in-laravel/)
 
