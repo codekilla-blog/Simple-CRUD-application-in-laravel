@@ -1,7 +1,7 @@
 
 ## Simple CRUD application in laravel
 
-To run this follow the below steps
+To run this project follow the below steps
 
 
 - Clone this repository , change directory to ceated folder 
